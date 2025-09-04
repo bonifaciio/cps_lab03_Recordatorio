@@ -11,4 +11,7 @@ public class StudentController {
     public void destroy(){
         System.out.printf("Te ejecute");
     }
+    public void destroey(){
+        System.out.printf("Te ejecutex3");
+    }
 }
