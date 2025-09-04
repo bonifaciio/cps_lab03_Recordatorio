@@ -3,6 +3,6 @@ package controllers;
 public class StudentController {
 
     public void init(){
-        System.out.printf("hola mami");
+        System.out.printf("Se igvgghvvghhgsvhvgd");
     }
 }
