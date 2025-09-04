@@ -2,7 +2,7 @@ package controllers;
 
 public class StudentController {
 
-    public void init(){
+    public void destroy(){
         System.out.printf("hola mai ");
     }
 }
