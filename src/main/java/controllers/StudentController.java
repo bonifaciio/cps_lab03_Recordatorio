@@ -1,7 +1,7 @@
 package controllers;
 
 public class StudentController {
-    public void execute(){
+    public void init(){
         System.out.println("Student Controller");
     }
 }
