@@ -3,6 +3,6 @@ package controllers;
 public class StudentController {
 
     public void init(){
-        System.out.printf("hola mai ");
+        System.out.println("Se agrego el metodo init");
     }
 }
