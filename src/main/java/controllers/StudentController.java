@@ -3,6 +3,6 @@ package controllers;
 public class StudentController {
 
     public void execute(){
-        System.out.printf("Te ejecute");
+        System.out.printf("Te ejecutex2");
     }
 }
